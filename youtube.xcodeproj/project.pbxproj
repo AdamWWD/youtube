@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		741D3D892058D0790030EFD3 /* SettingsLauncher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 741D3D882058D0790030EFD3 /* SettingsLauncher.swift */; };
 		743588E220523B1B00D6D0B2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743588E120523B1B00D6D0B2 /* Video.swift */; };
 		746D4C6F204F5BD500564389 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746D4C6E204F5BD500564389 /* AppDelegate.swift */; };
 		746D4C71204F5BD500564389 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746D4C70204F5BD500564389 /* HomeController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		741D3D882058D0790030EFD3 /* SettingsLauncher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLauncher.swift; sourceTree = "<group>"; };
 		743588E120523B1B00D6D0B2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		746D4C6B204F5BD500564389 /* youtube.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = youtube.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		746D4C6E204F5BD500564389 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				746D4C70204F5BD500564389 /* HomeController.swift */,
+				741D3D882058D0790030EFD3 /* SettingsLauncher.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				746D4C71204F5BD500564389 /* HomeController.swift in Sources */,
 				743588E220523B1B00D6D0B2 /* Video.swift in Sources */,
 				746D4C85204FEF0C00564389 /* VideoCell.swift in Sources */,
+				741D3D892058D0790030EFD3 /* SettingsLauncher.swift in Sources */,
 				746D4C82204FEE8D00564389 /* Extensions.swift in Sources */,
 				746D4C6F204F5BD500564389 /* AppDelegate.swift in Sources */,
 				746D4C88205120DF00564389 /* MenuBar.swift in Sources */,
