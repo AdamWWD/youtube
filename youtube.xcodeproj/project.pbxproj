@@ -17,6 +17,7 @@
 		746D4C82204FEE8D00564389 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746D4C81204FEE8D00564389 /* Extensions.swift */; };
 		746D4C85204FEF0C00564389 /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746D4C84204FEF0C00564389 /* VideoCell.swift */; };
 		746D4C88205120DF00564389 /* MenuBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746D4C87205120DE00564389 /* MenuBar.swift */; };
+		749004AB2058F4C00006F62A /* SettingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 749004AA2058F4C00006F62A /* SettingCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		746D4C81204FEE8D00564389 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		746D4C84204FEF0C00564389 /* VideoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
 		746D4C87205120DE00564389 /* MenuBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBar.swift; sourceTree = "<group>"; };
+		749004AA2058F4C00006F62A /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				746D4C84204FEF0C00564389 /* VideoCell.swift */,
 				746D4C87205120DE00564389 /* MenuBar.swift */,
+				749004AA2058F4C00006F62A /* SettingCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			files = (
 				746D4C71204F5BD500564389 /* HomeController.swift in Sources */,
 				743588E220523B1B00D6D0B2 /* Video.swift in Sources */,
+				749004AB2058F4C00006F62A /* SettingCell.swift in Sources */,
 				746D4C85204FEF0C00564389 /* VideoCell.swift in Sources */,
 				741D3D892058D0790030EFD3 /* SettingsLauncher.swift in Sources */,
 				746D4C82204FEE8D00564389 /* Extensions.swift in Sources */,
